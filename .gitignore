@@ -1,0 +1,16 @@
+node_modules
+dist
+.DS_Store
+*.local
+.vite
+.env
+.env.*
+!.env.example
+For Information/.env
+.cursor/
+
+# Uploaded manually on the host / GitHub (keeps the git push small)
+Assets/
+
+# Local reference / may contain secrets
+For Information/
